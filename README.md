@@ -1,6 +1,8 @@
 
 # Pakiet demonstracyjny
 
+Pakiet implementuje tylko jedno polecenie *wykonaj-pakiet-demo*, którego działanie ogranicza się do wypisania jego nazwy i wersji.
+
 Jak zainstalować?
 
 ## PIPENV
